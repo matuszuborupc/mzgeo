@@ -1,0 +1,4 @@
+Support for import SQL files for direct proceed execsql to database cgeo.
+This metod speedup import a spare time.
+Small change for sort list caches by distance - first are nearest.
+
